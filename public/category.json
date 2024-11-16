@@ -1,0 +1,5 @@
+[
+    { "id": 1, "category": "mobile" },
+    { "id": 2, "category": "laptop" },
+    { "id": 3, "category": "headphone" }
+  ]

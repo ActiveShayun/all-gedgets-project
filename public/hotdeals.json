@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Monitor",
+      "price": 299.99,
+      "image": "https://i.ibb.co.com/Bccs1Fv/monitor.jpg",
+      "description": "27-inch 4K UHD monitor with vibrant colors and thin bezels, ideal for gaming and productivity.",
+      "ratings": 4.5,
+      "model": "LG UltraFine 27UN850-W",
+      "made": "South Korea",
+      "inStock": true
+    },
+    {
+      "name": "Clothes (Casual Wear)",
+      "price": 49.99,
+      "image": "https://i.ibb.co.com/4fjWDwM/cloths.jpg",
+      "description": "Comfortable and stylish casual wear, perfect for everyday use. Made from high-quality cotton.",
+      "ratings": 4.3,
+      "model": "Basic Tees 2023",
+      "made": "Bangladesh",
+      "inStock": true
+    },
+    {
+      "name": "Headphones",
+      "price": 199.99,
+      "image": "https://i.ibb.co.com/PMRKZ3X/Apple-Air-Pods-Max.jpg",
+      "description": "Noise-canceling over-ear headphones with immersive sound and long battery life.",
+      "ratings": 4.7,
+      "model": "Sony WH-1000XM4",
+      "made": "Japan",
+      "inStock": false
+    },
+    {
+      "name": "Smartphone",
+      "price": 999.99,
+      "image": "https://i.ibb.co.com/1LqDHmX/smartphone.jpg",
+      "description": "High-performance smartphone with a 6.5-inch display, powerful processor, and excellent camera.",
+      "ratings": 4.8,
+      "model": "iPhone 14 Pro",
+      "made": "China",
+      "inStock": true
+    },
+    {
+      "name": "Stainless Steel Water Bottle",
+      "price": 25.99,
+      "image": "https://i.ibb.co.com/8PgzqGn/botle.webp",
+      "description": "Durable, insulated stainless steel water bottle keeps your drink cold for 24 hours or hot for 12 hours.",
+      "ratings": 4.6,
+      "model": "Hydro Flask 21oz",
+      "made": "USA",
+      "inStock": true
+    },
+    {
+      "name": "Memory Foam Pillow",
+      "price": 39.99,
+      "image": "https://i.ibb.co.com/mSZ7RwB/sleep.webp",
+      "description": "Ergonomic memory foam pillow designed for optimal comfort and support during sleep.",
+      "ratings": 4.4,
+      "model": "SleepWell Comfort",
+      "made": "India",
+      "inStock": true
+    },
+    {
+      "name": "Portable Charger",
+      "price": 29.99,
+      "image": "https://i.ibb.co.com/HdQcVFB/portable-charger.jpg",
+      "description": "High-capacity portable charger with fast charging capability, compatible with most devices.",
+      "ratings": 4.5,
+      "model": "Anker PowerCore 10000",
+      "made": "China",
+      "inStock": false
+    },
+    {
+      "name": "Smartwatch",
+      "price": 249.99,
+      "image": "https://i.ibb.co.com/F395PzK/download.jpg",
+      "description": "Feature-packed smartwatch with fitness tracking, notifications, and heart rate monitoring.",
+      "ratings": 4.7,
+      "model": "Samsung Galaxy Watch 5",
+      "made": "South Korea",
+      "inStock": true
+    },
+    {
+      "name": "Wireless Earbuds",
+      "price": 129.99,
+      "image": "https://i.ibb.co.com/K6KpnPg/airpots.webp",
+      "description": "Compact and comfortable wireless earbuds with clear sound quality and noise isolation.",
+      "ratings": 4.6,
+      "model": "Jabra Elite 75t",
+      "made": "Denmark",
+      "inStock": true
+    }
+  ]
